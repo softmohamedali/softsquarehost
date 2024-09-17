@@ -1,0 +1,37 @@
+<svg id="insta" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98" height="98" viewBox="0 0 98 98">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.08" y1="0.048" x2="0.93" y2="0.956" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e37d5c"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_431" data-name="Path 431" d="M19.7,0A19.789,19.789,0,0,0,0,19.669V78.331A19.678,19.678,0,0,0,19.7,98H78.3A19.678,19.678,0,0,0,98,78.331V19.669A19.789,19.789,0,0,0,78.3,0Z" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.03" y1="0.761" x2="0.971" y2="0.676" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0496fb"/>
+      <stop offset="0.138" stop-color="#3f72ff"/>
+      <stop offset="0.279" stop-color="#784aff"/>
+      <stop offset="0.407" stop-color="#b038ee"/>
+      <stop offset="0.547" stop-color="#cd40be"/>
+      <stop offset="0.72" stop-color="#ff415a"/>
+      <stop offset="0.865" stop-color="#f7941e"/>
+      <stop offset="0.981" stop-color="#ffe800"/>
+      <stop offset="1" stop-color="#ffe800"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_227" data-name="Rectangle 227" width="98" height="98" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_280" data-name="Group 280">
+    <g id="Group_279" data-name="Group 279" clip-path="url(#clip-path)">
+      <path id="Path_433" data-name="Path 433" d="M157.845,169.951l138.4.121.121,138.409-138.4-.121Z" transform="translate(371.719 -30.069) rotate(120)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+  <g id="Group_417" data-name="Group 417">
+    <g id="Group_282" data-name="Group 282">
+      <g id="Group_281" data-name="Group 281" clip-path="url(#clip-path-2)">
+        <path id="Path_432" data-name="Path 432" d="M74.533,57.776H104.1A17.374,17.374,0,0,1,121.4,75.054v29.357A17.374,17.374,0,0,1,104.1,121.689H74.533a17.374,17.374,0,0,1-17.308-17.278V75.054A17.374,17.374,0,0,1,74.533,57.776m32.013,11.162h0a3.67,3.67,0,1,1,0,7.339,3.67,3.67,0,1,1,0-7.339M89.238,72.3h.153a17.431,17.431,0,1,1,0,34.862h-.153a17.431,17.431,0,0,1,0-34.862m0,5.963h.153a11.544,11.544,0,0,1,0,23.088h-.153a11.544,11.544,0,0,1,0-23.088M74.687,63.281h29.256A11.952,11.952,0,0,1,115.89,75.207v29.051a11.952,11.952,0,0,1-11.947,11.926H74.687a11.952,11.952,0,0,1-11.947-11.926V75.207A11.952,11.952,0,0,1,74.687,63.281" transform="translate(-40.314 -40.733)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
